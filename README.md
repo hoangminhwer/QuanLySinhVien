@@ -1,5 +1,5 @@
 Trang web quản lý sinh viên:<br>
-Sử dụng visual studio code 2019 , ngôn ngữ Python, Django<br>
+Sử dụng visual studio code 2019 , ngôn ngữ Python, Django, database lưu trữ ở SQLite<br>
 Gồm 2 vai trò sinh viên và giáo viên:<br>
 Chức năng sinh viên:<br>
 Xem thông tin sinh viên<br>
